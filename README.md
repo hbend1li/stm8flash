@@ -91,7 +91,7 @@ Support table
 | stm8s103?3  |  ok   |  ?     |  ?   |  ok    |  ?      |  ?    |
 | stm8s105?4  |  ok   |  FAIL  |  ?   |  ok    |  ok     |  ?    |
 | stm8s105?6  |  ok   |  ?     |  ?   |  ok    |  ?      |  ?    |
-| stm8s207c8  |  ?    |  ?     |  ?   |  ?     |  ?      |  ?    |
+| stm8s207c8  |  ?    |  ?     |  ?   |  ok    |  ok     |  ok   |
 | stm8s207cb  |  ?    |  ?     |  ?   |  ?     |  ?      |  ?    |
 | stm8s207k8  |  ?    |  ?     |  ?   |  ?     |  ?      |  ?    |
 | stm8s207m8  |  ?    |  ?     |  ?   |  ?     |  ?      |  ?    |
